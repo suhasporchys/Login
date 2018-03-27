@@ -9,6 +9,8 @@
 import Foundation
 public func randomRGBColor() -> UIColor {
     return .randomColor()
+    ///
+    //thiuus
 }
 
 extension CGFloat {
